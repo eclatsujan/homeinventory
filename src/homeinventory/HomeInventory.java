@@ -17,5 +17,8 @@ public class HomeInventory {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public void hello(){
+        System.out.println("hello");
+    }
     
 }
